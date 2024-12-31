@@ -2,7 +2,8 @@
 
 A simple React application that creates an interactive Byzantine color palette. It provides light/dark color toggles and smooth animations.
 
-[Add a demo video/gif here]
+[Byzantine Color Palette.webm](https://github.com/user-attachments/assets/9eb17b81-331b-405e-8c47-58fbfb3d6597)
+
 
 ## 🌟 Overview
 
