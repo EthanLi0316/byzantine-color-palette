@@ -1,4 +1,3 @@
-import styles from "./Footer.module.css";
 import reactLogo from "../assets/react.svg";
 
 export default function Footer({ creatorName }) {
